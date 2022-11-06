@@ -7,7 +7,7 @@ This project was implemented with the goal of learning a web application framewo
 This web based calculator is interractive and it solves basic mathematical calculations.
 
 ### YouTube Video
-I have recorded a youtube video demonstrating the project and showing some part of the code logic in creating this application. You can find the video by click this [link](sfsdfs)
+I have recorded a youtube video demonstrating the project and showing some part of the code logic in creating this application. You can find the video by click this [link](https://youtu.be/YcjK7uVkUNY)
 
 ### Tech Stack
 This project was created solely using React. React offers command line tools that help you get up to speed in the creation of your web application.
@@ -18,6 +18,8 @@ This project was created solely using React. React offers command line tools tha
 
 
 ### Picture Time
+WireFram
+![wireframe](pic3.png)
 Calculator Home Page
 ![Home Page](pic1.png)
 
